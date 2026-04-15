@@ -71,6 +71,6 @@ maven-hotel-group-dashboard/
 ## 👤 Author
 
 **Bushra Khan**
-Data Analyst | [thedataalchemist.io](https://thedataalchemist.io) • [LinkedIn]((https://www.linkedin.com/in/bushra-nazeer-khan/)) • [GitHub](https://github.com/BushraKhan359)
+Data Analyst | [thedataalchemist.io](https://thedataalchemist.io) • [LinkedIn](https://www.linkedin.com/in/bushra-nazeer-khan) • [GitHub](https://github.com/BushraKhan359)
 
 *Created as part of a Maven Analytics data visualization project.*
